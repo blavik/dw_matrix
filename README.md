@@ -1,1 +1,2 @@
-# dw_matrix
+#opis 
+postępu w nauce
