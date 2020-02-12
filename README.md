@@ -1,3 +1,3 @@
 # Projekt matrix
 
-postępu w nauce
+opis postępu w nauce
